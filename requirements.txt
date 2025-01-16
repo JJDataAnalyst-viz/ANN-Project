@@ -1,5 +1,17 @@
+ipykernel
 numpy 
 pandas
+scikit-learn
+tensorflow
+tensorboard
+matplotlib
+seaborn
 dvc
 dvc-s3
+streamlit
+torch
+lightgbm
+xgboost
+mlflow
+dagshub
 -e .
