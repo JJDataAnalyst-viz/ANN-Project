@@ -1,3 +1,5 @@
 numpy 
 pandas
+dvc
+dvc-s3
 -e .

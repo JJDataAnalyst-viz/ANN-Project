@@ -55,3 +55,4 @@ docker-compose.override.yml
 *.key
 *.pem
 *.crt
+/data/Churn_Modelling.csv
