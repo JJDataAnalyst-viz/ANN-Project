@@ -1,0 +1,57 @@
+# Systemowe pliki tymczasowe
+*.DS_Store
+*.swp
+*.swo
+Thumbs.db
+
+# Pliki wirtualnego środowiska
+venv/
+.env/
+.venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logi i dane tymczasowe
+*.log
+*.out
+*.tmp
+logs/
+
+# Pliki konfiguracyjne IDE
+.vscode/
+.idea/
+
+# Pliki systemowe (Windows/Mac/Linux)
+*.bak
+*.~lock.*
+*.tmp
+*.orig
+*.part
+*.save
+
+# Pliki notebooków Jupyter generujące duże dane
+.ipynb_checkpoints/
+
+# Pliki zależności
+*.egg-info/
+*.egg
+dist/
+build/
+
+# Pakiety i dystrybucje
+pip-wheel-metadata/
+*.whl
+
+# Docker i kontenery (jeśli projekt ich używa)
+*.pid
+docker-compose.override.yml
+
+# Pliki wrażliwe
+.env
+*.key
+*.pem
+*.crt
