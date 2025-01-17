@@ -1,0 +1,5 @@
+outs:
+- md5: 96e120a5493fbaf11e42839dddcb71b3
+  size: 293485
+  hash: md5
+  path: xgb_model.pkl
